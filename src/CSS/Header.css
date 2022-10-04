@@ -1,0 +1,16 @@
+ul li {
+    list-style: none;
+}
+
+ul a {
+    text-decoration: none;
+}
+
+#websitelogo {
+    height: 3rem;
+    width: 3rem;
+}
+
+.activatedLink{
+    background: #000;
+}
